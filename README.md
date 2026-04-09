@@ -1,4 +1,4 @@
-# TP1 — Intégration des données avec SSIS
+# Intégration des données avec SSIS
 
 
 Extraction de données depuis un fichier plat vers une base de données **SQL Server 2022** via un package **SSIS**.  
